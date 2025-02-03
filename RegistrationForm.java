@@ -48,7 +48,7 @@ class RegistrationForm
 		
 		String days[] = {"1","2","3","4","5","6","7","8","9","10","11","12","13","14"};
 		String months[] = {"Jan","Feb","Mar","Apr","may","Jun","Jul","Aug","Sep","Oct","Nov","Dec"};
-		String years[] = {"1990","1990","1990","1990","1990","1990","1990","1990"};
+		String years[] = {"1990","1991","1992","1993","1994","1995","1996","1997"};
 		
 		JComboBox day = new JComboBox(days);
 		day.setBounds(150,200,100,20);
