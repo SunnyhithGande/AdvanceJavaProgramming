@@ -14,6 +14,8 @@ class RegistrationForm
 		JLabel l1 = new JLabel("First Name: ");
 		l1.setBounds(120,50,100,20);
 		p.add(l1);
+
+		
 		JTextField t1 = new JTextField(20);
 		t1.setBounds(220,50,100,20);
 		p.add(t1);
