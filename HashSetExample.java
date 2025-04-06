@@ -12,7 +12,7 @@ class HashSetExample
 		
 		set.remove("CSN1");
 		
-		System.out.println("Contains CSN1? " + set.contains("CSN2"));
+		System.out.println("Contains CSN1? " + set.contains("CSN1"));
 		
 		for(String dept: set)
 		{
